@@ -9,7 +9,3 @@ This project builds a machine learning pipeline using the Seaborn Penguins datas
 - FastAPI application for prediction
 - Input validation with Pydantic
 - Error handling and logging
-
----
-
-## 📁 Project Structure
